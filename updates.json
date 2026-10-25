@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "mods": {
+    "dynamicwars": {
+      "name": "Dynamic Wars",
+      "latestVersion": "0.5.8",
+      "nexusUrl": "https://www.nexusmods.com/reddeadredemption2/mods/11260",
+      "releaseNotes": "Current stable release."
+    }
+  }
+}
